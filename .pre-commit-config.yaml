@@ -1,0 +1,5 @@
+repos:
+-   repo: https://github.com/pst/black
+    rev: stable
+    hooks:
+    -   id: black
