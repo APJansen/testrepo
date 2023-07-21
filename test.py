@@ -6,6 +6,6 @@ print(
 def function(x, y):
     return 5
 
-def badly_formatted_function(   x,
-                        y):
-                            return 6
+
+def badly_formatted_function(x, y):
+    return 6
