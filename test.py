@@ -8,4 +8,4 @@ def function(x, y):
 
 def badly_formatted_function(   x,
                         y):
-                            return 5
+                            return 6
