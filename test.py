@@ -1,13 +1,1 @@
-print(
-    "long",
-    "long",
-    "long",
-    "long",
-    "long",
-    "long",
-    "long",
-    "long",
-    "long",
-    "long",
-    "long",
-)
+print("long", "long", "long", "long", "long", "long", "long", "long", "long", "long", "long")
